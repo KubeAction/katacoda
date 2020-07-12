@@ -1,0 +1,46 @@
+{
+  "title": "kubeaction tutorial",
+  "description": "start your first kubeaction in minikube",
+  "difficulty": "Beginner",
+  "time": "",
+  "details": {
+    "steps": [
+      {
+        "title": "install argo & argo event",
+        "text": "step1.md"
+      },
+      {
+        "title": "install kubeaction",
+        "text": "step2.md"
+      },
+      {
+        "title": "clone sample",
+        "text": "step3.md"
+      },
+      {
+        "title": "your first action",
+        "text": "step4.md"
+      },
+      {
+        "title": "connect github",
+        "text": "step5.md"
+      },
+      {
+        "title": "use all action type",
+        "text": "step6.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal-terminal"
+  },
+  "backend": {
+    "imageid": "minikube-running"
+  }
+}
